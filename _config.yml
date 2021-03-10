@@ -1,11 +1,11 @@
 # Site settings
-title: "The Grimoire"
-author: "Saph, thebombzen"
+title: "Mark's Grimoire"
+author: "Based on The Grimoire by Saph, thebombzen"
 description:
   "A searchable D&D 5e spell list, sorted by class and level."
-baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
-url: "https://thebombzen.com" # the base hostname & protocol for your site
-source-url: "https://github.com/thebombzen/grimoire/"
+baseurl: "/dnd" # the subpath of your site, e.g. /blog/
+url: "https://computationallythinking.com/dnd" # the base hostname & protocol for your site
+source-url: "https://github.com/compthinking/grimoire/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
